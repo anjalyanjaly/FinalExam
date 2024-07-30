@@ -1,0 +1,20 @@
+{
+  "name": "finalexam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anjalyanjaly"
+  },
+  "author": "Anjaly",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.3",
+    "sass": "^1.77.8"
+  }
+}
